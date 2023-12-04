@@ -2,6 +2,7 @@
 This repo hosts the web app that uOttahack uses to deliver content to the frontends that hackers, sponsors, volunteers, and mentors will use.
 
 <img width="2069" alt="Screenshot 2023-12-03 at 10 06 30 PM" src="https://github.com/uOttaHack/uOttaApp-Portal/assets/46465622/3eda4d95-ec3c-4164-8550-0c495d6b8597">
+<img width="1488" alt="Screenshot 2023-12-04 at 12 53 38 AM" src="https://github.com/uOttaHack/uOttaApp-Portal/assets/46465622/933701ad-3412-4bbe-ada8-f35ea73eb3d1">
 
 ### Prerequisites
 
@@ -23,8 +24,9 @@ To install and run the project, follow these steps:
 2. Login/Signup + Google auth [Done]
 3. Home page [Done]
 4. Next API routing [Done]
-5. Organizer component
-6. Application component 
+5. Organizer view/component
+6. Application component [Done]
+7. Connect app submit to Vercel KV db...
 
 
 ### Installation
