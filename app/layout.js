@@ -12,9 +12,9 @@ export default function RootLayout({ children }) {
     <ClerkProvider>
       <html lang='en'>
         <body className="flex min-h-screen ">
-          <Navbar className='w-80 fixed h-full' /> {/* Set the height to full to match the screen height */}
-          <main className='flex-1 ml-80 p-8'> {/* Adjust the margin-left to the width of your navbar */}
-            <div className='max-w-7xl mx-auto'> {/* This will center the content in the available space */}
+          <Navbar className='w-1/6 fixed h-full' /> {/* Set the height to full to match the screen height */}
+          <main className='flex-1 ml-64 p-8'> {/* Adjust the margin-left to the width of your navbar */}
+            <div className='max-w-4xl mx-auto'> {/* This will center the content in the available space */}
               {children}
             </div>
           </main>
