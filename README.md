@@ -17,6 +17,15 @@ To install and run the project, follow these steps:
 1. Next.js
 2. Clerk for role based Auth ('user' role - hacker, 'admin' role - organzier)
 
+### Next setps:
+
+1. Role based access [Done]
+2. Login/Signup + Google auth [Done]
+3. Home page [Done]
+4. Organizer component
+5. Application component 
+
+
 ### Installation
 
 To install and run the project, follow these steps:
