@@ -15,7 +15,7 @@ Before getting started, ensure you have the following installed:
 To install and run the project, follow these steps:
 
 1. Next.js
-2. Clerk for role based Auth
+2. Clerk for role based Auth ('user' role - hacker, 'admin' role - organzier)
 
 ### Installation
 
