@@ -22,8 +22,9 @@ To install and run the project, follow these steps:
 1. Role based access [Done]
 2. Login/Signup + Google auth [Done]
 3. Home page [Done]
-4. Organizer component
-5. Application component 
+4. Next API routing [Done]
+5. Organizer component
+6. Application component 
 
 
 ### Installation
